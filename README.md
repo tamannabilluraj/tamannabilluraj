@@ -4,7 +4,11 @@
 **Master of Science, Computer Science (Data Science)**  
 Cochin University of Science And Technology, Kochi
 
+---
+
 I focus on data science, working extensively with data analysis, machine learning algorithms, and building predictive models. With a computer science background, I enjoy turning raw data into meaningful insights and developing solutions that are both efficient and practical. I’m particularly interested in applying ML to real-world problems, while continuously improving my skills in data processing, modeling, and evaluation.
+
+---
 
 ## What I Work With
 
@@ -13,6 +17,8 @@ I focus on data science, working extensively with data analysis, machine learnin
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamannabillu)
