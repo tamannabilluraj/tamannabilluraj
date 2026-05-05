@@ -1,4 +1,4 @@
-## Hi, I'm Tamanna
+## Hi, I'm Tamanna!
 📊 Data Science | Machine Learning | 📍 Kochi, India 
 
 **Master of Science, Computer Science (Data Science)**  
