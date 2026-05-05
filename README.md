@@ -6,7 +6,7 @@ Cochin University of Science And Technology, Kochi
 
 ---
 
-I focus on data science, working extensively with data analysis, machine learning algorithms, and building predictive models. With a computer science background, I enjoy turning raw data into meaningful insights and developing solutions that are both efficient and practical. I’m particularly interested in applying ML to real-world problems, while continuously improving my skills in data processing, modeling, and evaluation.
+I work in data science, focusing on data analysis, machine learning, and predictive modeling. I have a computer science background and enjoy taking raw data and turning it into something actually useful. I'm particularly interested in applying ML to real-world problems and am always looking to improve across the full pipeline of data processing, modeling, and evaluation.
 
 ---
 
