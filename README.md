@@ -1,7 +1,7 @@
 ## Hi, I'm Tamanna
 📊 Data Science | Machine Learning | 📍 Kochi, India 
 
-**Master of Science, Computer Science (Data Science)**
+**Master of Science, Computer Science (Data Science)**  
 Cochin University of Science And Technology, Kochi
 
 I focus on data science, working extensively with data analysis, machine learning algorithms, and building predictive models. With a computer science background, I enjoy turning raw data into meaningful insights and developing solutions that are both efficient and practical. I’m particularly interested in applying ML to real-world problems, while continuously improving my skills in data processing, modeling, and evaluation.
