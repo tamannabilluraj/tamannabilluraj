@@ -18,7 +18,6 @@ I work in data science, focusing on data analysis, machine learning, and predict
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-yellow?style=for-the-badge&logo=catboost&logoColor=black)
 
 ---
 
