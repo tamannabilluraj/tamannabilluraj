@@ -23,3 +23,7 @@ I work in data science, focusing on data analysis, machine learning, and predict
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamannabillu)
+
+---
+
+**[![Potfolio Website](https://tamannabilluraj.github.io/tamanna-portfolio/)** 
