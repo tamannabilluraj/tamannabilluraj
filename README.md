@@ -26,4 +26,4 @@ I work in data science, focusing on data analysis, machine learning, and predict
 
 ---
 
-**[![Potfolio Website](https://tamannabilluraj.github.io/tamanna-portfolio/)** 
+**[Portfolio Website](https://tamannabilluraj.github.io/tamanna-portfolio/)**
