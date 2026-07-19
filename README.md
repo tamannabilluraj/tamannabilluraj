@@ -1,5 +1,5 @@
 ## Hi, I'm Tamanna!
-📊 Data Science | Machine Learning | 📍 Kochi, India 
+📊 Data Science | Machine Learning | 📍 Kochi | Bangalore, India 
 
 **Master of Science, Computer Science (Data Science)**  
 Cochin University of Science And Technology, Kochi
